@@ -4,17 +4,17 @@
 
 ## 👑 Quem foi Ada Lovelace?
 
-**Augusta Ada King, Condessa de Lovelace** (1815-1852) foi uma matemática e escritora britânica visionária, reconhecida como a primeira programadora da história. Conhecida como "A Feiticeira dos Números", ela previu que máquinas poderiam ir além de meros cálculos e criar música, arte e ciência.
+**Augusta Ada King, Condessa de Lovelace** foi uma matemática e visionária inglesa que combinou poesia e ciência de maneira revolucionária.[1] Única filha legítima do poeta Lord Byron, Ada herdou o espírito romântico do pai enquanto sua mãe a educava rigorosamente em matemática.[1] Ela uniu sua imaginação rebelde ao encanto pelos números, criando o que chamava de "ciência poética".[1] Ada foi educada por tutores particulares e depois de forma autodidata, mas foi auxiliada em seus estudos avançados pelo matemático-lógico Augustus De Morgan, o primeiro professor de matemática da Universidade de Londres.[3]
 
 ---
 
 ## 📚 Linha do Tempo
 
 ### 🎓 Educação e Primeiros Anos
-- **1815**: Nasceu em Londres, filha do poeta Lord Byron
-- **1828**: Desenvolveu interesse por matemática e tecnologia
-- **1833**: Conheceu Charles Babbage, pai do computador
-- **1842**: Traduziu e ampliou o artigo sobre a Máquina Analítica
+- **10 de dezembro de 1815**: Nasceu em Piccadilly Terrace, Middlesex (atual Londres)[3]
+- **1816**: Seus pais se separaram dois meses após seu nascimento, quando tinha apenas um mês de idade[3]
+- **anos 1820s**: Recebeu educação rigorosa em matemática como estratégia da mãe para evitar que desenvolvesse tendências artísticas do pai[2]
+- **1833**: Aos dezessete anos foi apresentada à corte real britânica[1]
 
 ![Young Ada Lovelace](ada_lovelace_3.jpg)
 

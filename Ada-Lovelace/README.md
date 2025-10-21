@@ -20,50 +20,52 @@ Fonte: Antoine Claudet, Ada Lovelace daguereeotype, 1843, Domínio Público
 
 ![Young Ada Lovelace](ada_lovelace_3.jpg)
 
-### 🔬 Parceria com Babbage
-- **1833**: Iniciou colaboração com Charles Babbage
-- **1842**: Traduziu artigo do italiano Luigi Menabrea
-- **1843**: Publicou suas "Notas" revolucionárias
-- **1852**: Faleceu aos 36 anos de câncer uterino
+Fonte: Frank Stone e William Henry Mote, Ada Lovelace as child, 1832, Domínio Público
+
+### 🔬 Encontro com a Técnologia
+- **Junho de 1833**: Participou de um sarau organizado por Charles Babbage, onde conheceu a Máquina Diferencial[1]
+- **Década de 1830**: Estudou com Augustus De Morgan, pioneiro no campo da lógica simbólica[1]
+- **1843**: Traduziu um artigo de Menabrea e acrescentou notas detalhadas e elaboradas, especialmente de sua descrição de como a Máquina Analítica poderia ser programada para calcular números de Bernoulli[3]
 
 ---
 
 ## 💡 Contribuições Revolucionárias
 
 ### 🔧 Máquina Analítica
-- Previu o potencial da máquina de Babbage além de cálculos numéricos
-- Descreveu como poderia processar símbolos e criar música/arte
-- Estabeleceu os fundamentos da computação moderna
+- Previu o potencial da máquina de Babbage além de cálculos numéricos[1]
+- Descreveu como poderia processar símbolos e criar música/arte[1]
+- Estabeleceu os fundamentos da computação moderna[3]
 
 ### 📝 Primeiro Algoritmo
-- **1843**: Criou o primeiro algoritmo para ser processado por uma máquina
-- Desenvolveu um método para calcular números de Bernoulli
-- Seu trabalho é considerado o primeiro programa de computador
+- **1843**: Criou o primeiro algoritmo para ser processado por uma máquina[3]
+- Desenvolveu um método para calcular números de Bernoulli[3]
+- Seu trabalho é considerado o primeiro programa de computador[3]
 
 ![Ada's Notes](ada_lovelace_6.png)
 
-### 🔮 Visão do Futuro
-- Previu que máquinas poderiam compor música complexa
-- Antecipou a inteligência artificial e criatividade computacional
-- Concebeu a ideia de loops e sub-rotinas na programação
-
-### 🧠 Abordagem Científica
-- Diferenciou dados de processamento
-- Estabeleceu conceitos de arquitetura de computadores
-- Desenvolveu metodologia para programação
-
 ---
+
+### 🎨 A ciência Poética
+Ada possuía uma capacidade única de apreciar a beleza da matemática e via as equações como uma linguagem que descreve a harmonia do universo. Ela afirmava poder ser Analista e Poeta simultaneamente, pois "as duas coisas seguem juntas de modo indissociável".[1]
+
+### 🔮 Visão Além dos Números
+
+Ada compreendeu algo que Babbage não havia percebido: a Máquina Analítica tinha potencial para processar não só números como quaisquer notações simbólicas, incluindo notações musicais e artísticas.[1] Ela declarou que "a Máquina Analítica tece padrões algébricos, assim como o tear de Jacquard tece flores e folhas".[1]
 
 ## 🏆 Reconhecimentos Póstumos
 
 | Reconhecimento | Ano | Significado |
 |----------------|-----|-------------|
 | **Linguagem ADA** | 1980 | Linguagem de programação nomeada em sua homenagem |
-| **Dia da Ada Lovelace** | 2009 | Celebrado na segunda terça de outubro |
-| **Google Doodle** | 2012 | Homenagem no seu 197º aniversário |
-| **Prêmio Lovelace** | 1998 | Premiação britânica para mulheres em TI |
+| **Dia da Ada Lovelace** | 2009 | Celebrado na segunda terça de outubro[2] |
+| **Prêmio Lovelace** | 1998 | Premiação britânica para mulheres em TI[2] |
 
 ---
+
+📚 Referências
+[1] ISAACSON, Walter. Os inovadores: Uma biografia da revolução digital. Tradução: Berilo Vargas, Luciano Vieira Machado, Pedro Maia Soares. São Paulo: Companhia das Letras, 2014. Capítulo 1: Ada, condessa de Lovelace.
+[2] COMPUTER HISTORY MUSEUM. Thinking Big: Ada, Countess of Lovelace. Exhibit description, 2015-2016.
+[3] ENCYCLOPAEDIA BRITANNICA. Ada Lovelace. Disponível em: Britannica Online. Última atualização: 9 de outubro de 2025.
 
 <div align="center">
 

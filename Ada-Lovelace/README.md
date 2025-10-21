@@ -67,7 +67,9 @@ Ada compreendeu algo que Babbage não havia percebido: a Máquina Analítica tin
 
 📚 Referências
 [1] ISAACSON, Walter. Os inovadores: Uma biografia da revolução digital. Tradução: Berilo Vargas, Luciano Vieira Machado, Pedro Maia Soares. São Paulo: Companhia das Letras, 2014. Capítulo 1: Ada, condessa de Lovelace.
+
 [2] COMPUTER HISTORY MUSEUM. Thinking Big: Ada, Countess of Lovelace. Exhibit description, 2015-2016.
+
 [3] ENCYCLOPAEDIA BRITANNICA. Ada Lovelace. Disponível em: Britannica Online. Última atualização: 9 de outubro de 2025.
 
 <div align="center">

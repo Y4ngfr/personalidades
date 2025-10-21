@@ -41,7 +41,10 @@ Fonte: Frank Stone e William Henry Mote, Ada Lovelace as child, 1832, Domínio P
 - Desenvolveu um método para calcular números de Bernoulli[3]
 - Seu trabalho é considerado o primeiro programa de computador[3]
 
-![Ada's Notes](ada_lovelace_6.png)
+![Ada's Notes](Diagram_for_the_computation_of_Bernoulli_numbers.jpg
+)
+
+Fonte: Ada Lovelace, Diagram for the computation of Bernoulli numbers, 1842, Domínio Público
 
 ---
 

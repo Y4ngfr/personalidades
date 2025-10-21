@@ -1,6 +1,7 @@
 # Ada Lovelace: A Primeira Programadora da História 💫
 
 ![Ada Lovelace](ada_lovelace_2.png)
+
 Fonte: Antoine Claudet, Ada Lovelace daguereeotype, 1843, Domínio Público
 
 ## 👑 Quem foi Ada Lovelace?

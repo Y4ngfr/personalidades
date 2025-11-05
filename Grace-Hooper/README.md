@@ -5,7 +5,8 @@
 
 ## 🎖️ Quem foi Grace Hopper?
 
-**Grace Murray Hopper** (1906-1992) foi uma cientista da computação visionária e oficial da Marinha dos Estados Unidos que se tornou uma das figuras mais importantes da história da tecnologia. Conhecida como "Amazing Grace", ela foi uma das primeiras programadoras, criadora do primeiro compilador e uma das forças motrizes por trás da linguagem COBOL. [1]
+**Grace Murray Hopper** (1906-1992): foi uma cientista da computação visionária e oficial da Marinha dos Estados Unidos que se tornou uma das figuras mais importantes da história da tecnologia. Conhecida como "Amazing Grace", ela foi uma das primeiras programadoras, criadora do primeiro compilador e uma das forças motrizes por trás da linguagem COBOL. [1]
+
 ---
 
 ## 📚 Linha do Tempo

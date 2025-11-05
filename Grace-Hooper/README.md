@@ -5,26 +5,24 @@
 
 ## 🎖️ Quem foi Grace Hopper?
 
-**Grace Murray Hopper** (1906-1992) foi uma cientista da computação visionária e almirante da Marinha dos Estados Unidos que revolucionou o mundo da tecnologia. Conhecida carinhosamente como "Amazing Grace", ela foi uma das primeiras programadoras do computador Harvard Mark I e criadora da linguagem de programação COBOL.
-
+**Grace Murray Hopper** (1906-1992) foi uma cientista da computação visionária e oficial da Marinha dos Estados Unidos que se tornou uma das figuras mais importantes da história da tecnologia. Conhecida como "Amazing Grace", ela foi uma das primeiras programadoras, criadora do primeiro compilador e uma das forças motrizes por trás da linguagem COBOL. [1]
 ---
 
 ## 📚 Linha do Tempo
 
 ### 🎓 Educação e Primeiros Anos
-- **1906**: Nasceu em Nova York
-- **1928**: Graduou-se em Matemática e Física no Vassar College
-- **1930**: Mestrado na Universidade de Yale
-- **1934**: Doutorado em Matemática em Yale
+- **9 de dezembro de 1906**: Nasceu em Nova York, filha de Walter Fletcher Murray e Mary Campbell Van Horne. [2]
+- **1928**: Formou-se em Matemática e Física no Vassar College, onde foi eleita para a sociedade de honra Phi Beta Kappa. [2]
+- **1930**: Obteve seu mestrado em Matemática pela Universidade de Yale. [1]
+- **1934**: Concluiu seu doutorado em Matemática em Yale. [1]
 
 ![Young Grace Hopper](grace_hopper_5.png)
 
 ### ⚓ Carreira Naval
-- **1943**: Alistou-se na Marinha durante a Segunda Guerra Mundial
-- **1944**: Tornou-se uma das primeiras programadoras do Harvard Mark I
-- **1949**: Entrou para a Eckert-Mauchly Computer Corporation
-- **1983**: Promovida a Comodora
-- **1985**: Primeira mulher a alcançar o posto de Almirante
+- **1943**: Alistou-se na Reserva Naval durante a Segunda Guerra Mundial, após insistir muito pois "inicialmente foi rejeitada por causa de sua idade e diminuta estatura". [2]
+- **1944**: Foi designada para o Projeto de Computação do Bureau of Ordnance na Universidade de Harvard, onde trabalhou no computador Harvard Mark I. [1]
+- **1949**: Ingressou na Eckert-Mauchly Computer Corporation, onde trabalhou no desenvolvimento do UNIVAC I. [1]
+- **1985**:  Tornou-se a primeira mulher a alcançar a patente de Contra-Almirante na Marinha dos EUA. [1]
 
 ![Grace Hopper Celebration](grace_hopper_4.jpg)
 
@@ -33,19 +31,15 @@
 ## 💡 Contribuições Revolucionárias
 
 ### 🔧 Harvard Mark I
-- Uma das primeiras programadoras do primeiro computador digital em larga escala
-- Desenvolveu o primeiro manual de operações para computadores
+Como uma das primeiras programadoras do Mark I, Hopper foi responsável por programar a máquina. Em 1945, enquanto trabalhava no Mark II, ela e sua equipe encontraram uma mariposa presa na máquina, popularizando o termo "debugging" para se referir à correção de problemas em computadores. [2]
 
 ### 🔄 O Primeiro Compilador
-- **1952**: Desenvolveu o primeiro compilador (A-0 System)
-- Revolucionou a programação ao permitir que códigos em linguagem humana fossem traduzidos para linguagem de máquina
+Na Eckert-Mauchly Computer Corporation, a equipe de Hopper criou o primeiro compilador em 1952. Posteriormente, desenvolveram o Flow-Matic (1957), a primeira linguagem de programação a usar comandos em inglês, pois Hopper acreditava que "processadores de dados, que normalmente não eram matemáticos ou engenheiros, se sentiriam mais confortáveis usando linguagens baseadas em palavras". [2]
 
 ![Hopper Working](grace_hopper_2.jpg)
 
 ### 💬 Linguagem COBOL
-- **1959**: Liderou o desenvolvimento do COBOL (Common Business-Oriented Language)
-- Primeira linguagem de programação de alto nível para negócios
-- Ainda utilizada em sistemas legados até hoje
+Hopper foi fundamental para o sucesso do COBOL. Seu biográfo Kurt Beyer afirma que ela foi "a pessoa mais responsável pelo sucesso do COBOL durante a década de 1960". [2] Na década de 1970, o COBOL havia se tornado "a linguagem de computador mais extensivamente usada no mundo". [2]
 
 ### 🐛 A Origem do "Bug"
 - Popularizou o termo "debugging" após remover uma mariposa presa no Harvard Mark II
@@ -55,16 +49,16 @@
 
 ---
 
-## 🏆 Prêmios e Reconhecimentos
-
-| Prêmio | Ano | Contribuição |
-|--------|-----|--------------|
-| **Man of the Year** | 1969 | Data Processing Management Association |
-| **National Medal of Technology** | 1991 | Contribuições à computação |
-| **Presidential Medal of Freedom** | 2016 | Póstumo |
-| **Destroyer USS Hopper** | 1997 | Navio batizado em sua homenagem |
+### 👩‍🏫 Legado como Educadora
+Hopper valorizava profundamente o ensino e a comunicação. Ela deixou seu cargo de professora associada em Vassar para se juntar à Marinha, mas continuou lecionando em diversas instituições. Sua habilidade em explicar conceitos complexos de forma clara foi fundamental para seu sucesso em promover a adoção de novas tecnologias. [2]
 
 ---
+
+📚 Referências
+
+[1] ENCYCLOPAEDIA BRITANNICA. Grace Hopper. Disponível em: https://www.britannica.com/biography/Grace-Hopper. Acesso em: 18 out. 2025.
+
+[2] YALE UNIVERSITY. Grace Murray Hopper (1906-1992): A legacy of innovation and service. Yale News, 10 fev. 2017. Disponível em: https://news.yale.edu/2017/02/10/grace-murray-hopper-1906-1992-legacy-innovation-and-service. Acesso em: 18 out. 2025.
 
 <div align="center">
 

@@ -3,6 +3,8 @@
 
 ![Grace Hopper Portrait](grace_hopper_1.jpg)
 
+Fonte: James S. Davis, Commodore Grace M. Hopper, USN (covered), 1984, Domínio Público
+
 ## 🎖️ Quem foi Grace Hopper?
 
 **Grace Murray Hopper** (1906-1992): foi uma cientista da computação visionária e oficial da Marinha dos Estados Unidos que se tornou uma das figuras mais importantes da história da tecnologia. Conhecida como "Amazing Grace", ela foi uma das primeiras programadoras, criadora do primeiro compilador e uma das forças motrizes por trás da linguagem COBOL. [1]
@@ -19,6 +21,8 @@
 
 ![Young Grace Hopper](grace_hopper_5.png)
 
+Fonte: Grace Hopper in the 1940s, 1945, Domínio Público
+
 ### ⚓ Carreira Naval
 - **1943**: Alistou-se na Reserva Naval durante a Segunda Guerra Mundial, após insistir muito pois "inicialmente foi rejeitada por causa de sua idade e diminuta estatura". [2]
 - **1944**: Foi designada para o Projeto de Computação do Bureau of Ordnance na Universidade de Harvard, onde trabalhou no computador Harvard Mark I. [1]
@@ -26,6 +30,8 @@
 - **1985**:  Tornou-se a primeira mulher a alcançar a patente de Contra-Almirante na Marinha dos EUA. [1]
 
 ![Grace Hopper Celebration](grace_hopper_4.jpg)
+
+Fonte: Pete Souza, Grace Hopper being promoted to Commodore, 1983, Domínio Público
 
 ---
 
@@ -39,6 +45,9 @@ Na Eckert-Mauchly Computer Corporation, a equipe de Hopper criou o primeiro comp
 
 ![Hopper Working](grace_hopper_2.jpg)
 
+Fonte: Lynn Gilbert, Grace Murray Hopper, in her office in Washington DC, 1978, [Creative Commons Attribution-Share Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
 ### 💬 Linguagem COBOL
 Hopper foi fundamental para o sucesso do COBOL. Seu biográfo Kurt Beyer afirma que ela foi "a pessoa mais responsável pelo sucesso do COBOL durante a década de 1960". [2] Na década de 1970, o COBOL havia se tornado "a linguagem de computador mais extensivamente usada no mundo". [2]
 
@@ -46,7 +55,8 @@ Hopper foi fundamental para o sucesso do COBOL. Seu biográfo Kurt Beyer afirma 
 - Popularizou o termo "debugging" após remover uma mariposa presa no Harvard Mark II
 
 ![First Computer Bug](grace_hopper_3.jpg)
-*O primeiro "bug" de computador - uma mariposa encontrada em 1947*
+
+Fonte: Grace Hopper and UNIVAC, 1960, [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ---
 
